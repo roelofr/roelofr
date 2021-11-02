@@ -33,3 +33,15 @@ out some courses and tutorials to improve my Java language knowledge on the foll
     - [ ] Angular front-end
     - [ ] Relational model: Blog with tags and comments
   - [ ] (optional) Purchase the [Learn Spring Data JPA](https://www.baeldung.com/learn-spring-data-jpa-course) course.
+
+### 3. Improve Gumbo Millennium test coverage to 70%
+
+The Gumbo Millennium website ([gumbo-millennium/website](https://github.com/gumbo-millennium/website)) project is currently
+at a super low code coverage percentage. If I seriously clean up the codebase, and rework the enrollment system, the
+reliability goes up /and/ the application will be easier to transfer to someone else.
+
+- [ ] Rework the enrollment system:
+  - [ ] Write front-end in Vue
+  - [ ] Handle enrollment as API
+  - [ ] Add tests for the API
+- [ ] Add a ton of documentation using Larecipe (already installed)
