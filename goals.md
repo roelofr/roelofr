@@ -32,3 +32,4 @@ out some courses and tutorials to improve my Java language knowledge on the foll
     - [ ] CRUD actions via API
     - [ ] Angular front-end
     - [ ] Relational model: Blog with tags and comments
+  - [ ] (optional) Purchase the [Learn Spring Data JPA](https://www.baeldung.com/learn-spring-data-jpa-course) course.
