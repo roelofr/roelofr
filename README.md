@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Roelof Roos, a software developer from the wonderful town of Zwolle, The Netherlands.
+I'm Roelof, a software developer from the wonderful town of Zwolle, The Netherlands.
 
 If you're reading this, you're either checking out my profile (do you like it?) or in my
 personal GitHub repository.
@@ -10,6 +10,5 @@ or hit me up on Telegram: [@roelof](https://t.me/roelof). You can also check som
 log items:
 
 - [My Resume](https://github.com/roelofr/curriculum-vitae)
-- [My GitHub goals](./goals.md)
 
 Have a good day 🏖
